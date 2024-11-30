@@ -4,10 +4,7 @@
 |---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Identify	|Network resources became inaccessible due to an incoming flood of ICMP packets by a malicious actor. The entire internal network was affected. All critical resources needed to be secured and restored to a functioning state. |
 |Protect	|To address this security event, the network security team implemented a new firewall rule to limit the rate of incoming ICMP packets and an IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics.|
-|Detect 	|To detect new unauthorized attacks in the future, the team implemented: </br>Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets.</br>Network monitoring software to detect abnormal traffic patterns.</br>IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
-|Respond  |The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. |
-|Recover	|To recover from a DDoS attack by ICMP flooding, access to network resources need to be restored to a normal functioning state. In the future, a firewall can block ICMP flood attacks. Then, all non-critical network services should be stopped to reduce internal traffic. Next, critical services should be restored. Finally, after the flood of ICMP packets hace timed out, all non-critical network systems and services can be brought back online.|
+|Detect 	|To detect new unauthorized attacks in the future, the team implemented: </br>Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets.</br>Network monitoring software to detect abnormal traffic patterns.</br>IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics|
+|Respond  |The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services.|
+|Recover	|To recover from a DDoS attack by ICMP flooding, access to network resources need to be restored to a normal functioning state. In the future, a firewall can block ICMP flood attacks. Then, to reduce internal traffic, all non-critical network services should be stopped. Next, critical services should be restored. Finally, once the flood of ICMP packets have timed out, all non-critical network systems and services can be brought back online.|
 
-
-
-Reflections/Notes:
