@@ -30,3 +30,4 @@ As a cybersecurity analyst, I am tasked with using this security event to create
 
 - <b>Recover</b> affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
 
+[Applying the NIST CSF](https://docs.google.com/document/d/1ZXaVG37uE20g49A_-MBCoz_zmTGdNg5Q/edit?usp=drive_link&ouid=115016989648473973777&rtpof=true&sd=true)
