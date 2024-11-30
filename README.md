@@ -18,7 +18,7 @@ To address this security event, the network security team implemented:
 
 - An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-As a cybersecurity analyst, I am tasked with using this security event to create a plan to improve my company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I will use the CSF to help me navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security strategy. We have broken the analysis into different parts in the template below. You can explore them here:
+As a cybersecurity analyst, I am tasked with using this security event to create a plan to improve my company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I will use the CSF to help me navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security strategy. The analysis has been broken into different parts as outlined below:
 
 - <b>Identify</b> security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential gaps in security. 
 
@@ -30,4 +30,4 @@ As a cybersecurity analyst, I am tasked with using this security event to create
 
 - <b>Recover</b> affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
 
-[Applying the NIST CSF](https://docs.google.com/document/d/1ZXaVG37uE20g49A_-MBCoz_zmTGdNg5Q/edit?usp=drive_link&ouid=115016989648473973777&rtpof=true&sd=true)
+<h3>[Incident response analysis]()</h3>
