@@ -1,4 +1,4 @@
-<h3>Application of the NIST framework</h3>
+<h3>Incident Report Analysis Using the NIST Cybersecurity Framework</h3>
 
 |Summary	|The organization's internal network services suddenly stopped working due to a large number of incoming ICMP packets. Normal internal network traffic could not access any network resources. The incident management team then blocked incoming ICMP packets, stopped all non-critical network services offline, and restored critical network services. Investigation revealed that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This overwhelmed the company’s network through a distributed denial of service (DDoS) attack.|
 |---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
